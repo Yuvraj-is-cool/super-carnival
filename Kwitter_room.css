@@ -1,0 +1,17 @@
+#logout
+{
+	font-size: 20px; float: right;
+
+}
+
+#room_name{
+    margin-top: 200px;
+    width: 500px;
+}
+body{
+    background: linear-gradient( #0069e1, #0021f8, #04438b, #1423ca, #3416e0);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}

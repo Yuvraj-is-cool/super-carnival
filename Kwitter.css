@@ -1,0 +1,15 @@
+body{
+text-align: center;
+    background: linear-gradient(to right top, #21d88f, #13ca35, #04ff68, #38cb3a, #16e06a);
+}
+.login_div{
+float: none;
+margin-left: 540px;
+    }
+#button_login{
+width: 500px;
+background-color: black;
+color: white;
+border-radius: 250px;
+}
+
